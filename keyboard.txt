@@ -1,0 +1,3 @@
+|  = tecla al lado del 1
+`` = tecla Alt Gr + }
+'' = tecla ?\
